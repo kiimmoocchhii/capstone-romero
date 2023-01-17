@@ -1,0 +1,8 @@
+body{
+    background-image: url(images/26910078_2105553129681423_430730445444940258_o.jpg);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar .navbar-brand img{
+    width: 150px;
+}
